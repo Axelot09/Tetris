@@ -3,6 +3,7 @@
 **INSTRUCTIONS**
 
 **1. Move Pieces:**
+
 *Left Arrow Key:* Move the current piece left.
 
 *Right Arrow Key:* Move the current piece right.
@@ -10,6 +11,7 @@
 *Down Arrow Key:* Move the current piece down faster.
  
 **2. Rotate Pieces:**
+
 *Up Arrow Key:* Rotate the current piece clockwise.
  
 **3. Clear Rows:**
