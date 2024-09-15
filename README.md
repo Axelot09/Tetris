@@ -4,15 +4,15 @@
 
 **1. Move Pieces:**
 
-*Left Arrow Key:* Move the current piece left.
+*1.1 Left Arrow Key:* Move the current piece left.
 
-*Right Arrow Key:* Move the current piece right.
+*1.2 Right Arrow Key:* Move the current piece right.
 
-*Down Arrow Key:* Move the current piece down faster.
+*1.3 Down Arrow Key:* Move the current piece down faster.
  
 **2. Rotate Pieces:**
 
-*Up Arrow Key:* Rotate the current piece clockwise.
+*2.1 Up Arrow Key:* Rotate the current piece clockwise.
  
 **3. Clear Rows:**
 Complete a row of blocks to clear it and earn points.
