@@ -4,7 +4,9 @@
 
 **1. Move Pieces:**
 *Left Arrow Key:* Move the current piece left.
+
 *Right Arrow Key:* Move the current piece right.
+
 *Down Arrow Key:* Move the current piece down faster.
  
 **2. Rotate Pieces:**
